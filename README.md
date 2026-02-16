@@ -1,12 +1,13 @@
-<h1 align="left">Hi there, I'm César <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">César Álvarez-Cascos</h1>
+<p align="center"><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Welcome to my GitHub Portfolio </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-%C3%A1lvarez-cascos-herv%C3%ADas-176ab0281/" target="_blank">
-    <img align="left" alt="linkedin" src="./assets/LinkedIn.svg" height="36px"/>
-  </a>
-  <a href="mailto:alvarezcascosc@gmail.com">
-    <img align="left" alt="gmail" src="./assets/Gmail-Dark.svg" height="36px"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-%C3%A1lvarez-cascos-herv%C3%ADas-176ab0281/" target="_blank"
+    ><img alt="linkedin" src="./assets/LinkedIn.svg" height="32px"
+  /></a>&nbsp;&nbsp;
+  <a href="mailto:alvarezcascosc@gmail.com"
+    ><img alt="gmail" src="./assets/Gmail-Dark.svg" height="32px"
+  /></a>
 </p>
 
 
