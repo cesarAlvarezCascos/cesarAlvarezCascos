@@ -1,21 +1,22 @@
-<h1 align="center">Hi there, I'm César <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm César <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/c%C3%A9sar-%C3%A1lvarez-cascos-herv%C3%ADas-176ab0281/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn"/>
+    <img align="left" alt="linkedin" src="./assets/LinkedIn.svg" height="36px"/>
   </a>
-   &nbsp;&nbsp;
   <a href="mailto:alvarezcascosc@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Gmail"/>
+    <img align="left" alt="gmail" src="./assets/Gmail-Dark.svg" height="36px"/>
   </a>
 </p>
 
 
+
+
+
+
 <!-- comment -->
 
-
+<!-- 
 ###
 
 <div align="center">
@@ -23,3 +24,4 @@
 </div>
 
 ###
+-->
